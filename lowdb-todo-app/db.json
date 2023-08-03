@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "task": "Complete assignment",
+      "done": false
+    },
+    {
+      "task": "Go for a run",
+      "done": false
+    }
+  ]
+}
